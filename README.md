@@ -1,13 +1,13 @@
-# Hi there, I'm [Sarthak Rathi]! 👋
+# Hi there, I'm Sarthak Rathi! 👋
 
 ## About Me 🚀
 
-I'm a passionate **[2nd Yr Student]** learning at **[Shri Ramdeobaba College of Engineering and Management,Nagpur]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **2nd Yr Student** learning at **Shri Ramdeobaba College of Engineering and Management,Nagpur**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[Coding]**
-- 🌍 Languages: **[C,HTML,Java]**
-- 📫 How to reach me: **[rathisg_1@rknec.edu]**
-- ⚡ Fun fact: **[Besides excelling in academics, I have a remarkable talent for playing Tabla.]**
+- 🌱 Currently learning: **Coding**
+- 🌍 Languages: **C,HTML,Java**
+- 📫 How to reach me: **rathisg_1@rknec.edu**
+- ⚡ Fun fact: **Besides excelling in academics, I have a remarkable talent for playing Tabla.**
 
 ## My Skills 🧠
 
@@ -18,8 +18,8 @@ I'm a passionate **[2nd Yr Student]** learning at **[Shri Ramdeobaba College of 
 
 ## Get in Touch 📬
 
-- **[Contact Details]**(+91 7517382911)
-- **[LinkedIn]**(your_linkedin_profile_link)
-- **[Email]**(sarthakrathi04@gmail.com)
+- **Contact Details** (+91 7517382911)
+- **LinkedIn** (your_linkedin_profile_link)
+- **Email** (sarthakrathi04@gmail.com)
 
 
