@@ -19,7 +19,7 @@ I'm a passionate **2nd Yr Student** learning at **Shri Ramdeobaba College of Eng
 ## Get in Touch 📬
 
 - **Contact Details** (+91 7517382911)
-- **LinkedIn** (your_linkedin_profile_link)
+- **LinkedIn** (https://www.linkedin.com/in/sarthak-rathi-22a1b7330)
 - **Email** (sarthakrathi04@gmail.com)
 
 
